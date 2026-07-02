@@ -22,7 +22,7 @@ The dataset consists of:
 ### 🔹 Engagement Analysis
 •Calculated Engagement Rate:     
 ####  ```Engagement Rate = (Likes + Shares + Comments) / Impressions```     
-•Identified Top 10 posts based on engagement
+•Identified Top 10 posts based on engagement     
 •Analyzed engagement by platform and content type   
 
 
@@ -68,6 +68,7 @@ The dataset consists of:
 
 ## Screenshots   
 #### •Content type priorities per platform: ![content type priorities](https://github.com/rajatgusain17-sketch/TESLA-Social-Media-Analytics/blob/main/content%20type%20priority%20per%20platform.png?raw=true)
+#### •Top 10 Posts with highest Engagement: ![top 10 posts]()
 
 
 
