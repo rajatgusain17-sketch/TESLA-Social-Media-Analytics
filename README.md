@@ -69,7 +69,7 @@ The dataset consists of:
 ## Screenshots   
 #### •Content type priorities per platform:   ![content type priorities](https://github.com/rajatgusain17-sketch/TESLA-Social-Media-Analytics/blob/main/content%20type%20priority%20per%20platform.png?raw=true)    
 #### •Top 10 Posts with highest Engagement:   ![top 10 posts](https://github.com/rajatgusain17-sketch/TESLA-Social-Media-Analytics/blob/main/Top%2010%20post%20with%20highest%20Engagement.png?raw=true)
-#### •Follower Growth Rate across Platforms:  ![Growth Rate]()
+#### •Follower Growth Rate across Platforms:  ![Growth Rate](https://github.com/rajatgusain17-sketch/TESLA-Social-Media-Analytics/blob/main/Follower%20Growth%20Rate%20across%20platform.png?raw=true)
 
 
 
