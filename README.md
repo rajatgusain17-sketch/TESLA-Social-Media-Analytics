@@ -63,8 +63,15 @@ The dataset consists of:
 •Microsoft Excel          
 •Pivot Tables      
 •Data Cleaning Techniques           
-•Charts & Visualizations                  
-•Basic Statistical Analysis             
+•Charts & Visualizations                    
+•Basic Statistical Analysis              
+
+## Screenshots   
+•Content type priorities per platform:   
+
+
+
+
 
 ## 🚀 Conclusion
 •This project demonstrates how Excel can be used as a powerful analytics tool to extract meaningful business insights.            
