@@ -1,7 +1,6 @@
 # TESLA-Social-Media-Analytics
 This project analyzes Tesla's social media performance across multiple platforms using Microsoft Excel. The goal is to derive actionable insights related to engagement, campaign performance, follower growth, and content strategy.  
 The dataset consists of:
-
 📊 Posts Data (Likes, Shares, Comments, Impressions, Hashtags)
 📈 Engagement Summary (Followers, Ad Spend)
 📅 Campaign Metadata (Campaign timelines, budgets, objectives)
