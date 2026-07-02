@@ -67,7 +67,7 @@ The dataset consists of:
 •Basic Statistical Analysis              
 
 ## Screenshots   
-•Content type priorities per platform:   ![Alt text]  (content type priority per platform.png)  
+•Content type priorities per platform:  (https://github.com/rajatgusain17-sketch/TESLA-Social-Media-Analytics/blob/main/content%20type%20priority%20per%20platform.png?raw=true)
 
 
 
