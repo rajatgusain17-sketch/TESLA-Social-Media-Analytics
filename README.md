@@ -67,7 +67,7 @@ The dataset consists of:
 •Basic Statistical Analysis              
 
 ## Screenshots   
-•Content type priorities per platform:   
+•Content type priorities per platform:   content type priority per platform.png
 
 
 
